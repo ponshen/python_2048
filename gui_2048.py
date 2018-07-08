@@ -20,7 +20,7 @@ KEY_LEFT = 'Left'
 KEY_RIGHT = 'Right'
 
 # Directions
-DIR_DICT = {KEY_UP: 1, KEY_DOWN: 2, KEY_LEFT: 3, KEY_RIGHT: 4, 'w': 1}
+DIR_DICT = {KEY_UP: 1, KEY_DOWN: 2, KEY_LEFT: 3, KEY_RIGHT: 4}
 
 
 class GameGrid(tk.Tk):
